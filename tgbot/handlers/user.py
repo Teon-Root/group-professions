@@ -1,4 +1,4 @@
-from aiogram import Router
+from aiogram import Router, Bot
 from aiogram.filters import CommandStart
 from aiogram.types import Message, FSInputFile, ChatJoinRequest
 from tgbot.keyboards.inline import keyboard
